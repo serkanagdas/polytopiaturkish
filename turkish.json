@@ -833,7 +833,7 @@
   "onlineview.randommatch.start": "Rastgele bir oyun bul.",
   "onlineview.game.leavematchmaking.title": "Eşleştirmeden Ayrılıyorsun",
   "onlineview.game.leavematchmaking.info": "Eşleştirmeden ayrılmak istediğine emin misin?",
-  "online.loadingprofile": "Profil yükleniyor...",
+  "online.loadingprofile.title": "Profil yükleniyor...",
 
   "firebaseservice.status.connecting": "Polytopia sunucularına bağlanılıyor...",
   "firebaseservice.status.loading": "Oyun bilgisi yükleniyor...",
