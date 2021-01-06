@@ -773,7 +773,7 @@
   "consent.approve":"İZİN VER",
   "consent.deny":"İZİN VERME",
   "consent.enabled":"Kişisel Veriler Etkinleştirildi",
-  "consent.enabled.info":"Şu anda Polytopia'nın hizmeti iyileştirmek ve yüksek puanlarınızı vb. Saklamak için bazı kişisel verilere erişmesine izin veriyorsunuz. Daha fazla bilgi için, <u><a href='{0}'>privacy policy</a></u>.",
+  "consent.enabled.info":"Şu anda Polytopia'nın hizmeti iyileştirmek ve yüksek derecelerinizi vb. Saklamak için bazı kişisel verilere erişmesine izin veriyorsunuz. Daha fazla bilgi için, <u><a href='{0}'>privacy policy</a></u>.",
   "consent.disabled":"Kişisel Veriler Devre Dışı",
   "consent.disabled.info":"Yüksek puanlar ve kullanım istatistikleri gibi kişisel verileri kaydetmek için onayınıza ihtiyacımız var. Daha fazla bilgi için okuyun <u><a href='{0}'>privacy policy</a></u>.",
   "consent.revoke":"onayı iptal et",
