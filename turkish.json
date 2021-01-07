@@ -837,6 +837,7 @@
   "onlineview.game.leavematchmaking.info": "Eşleştirmeden ayrılmak istediğine emin misin?",
   "onlineview.loadingprofile.title": "Profil yükleniyor...",
   "onlineview.loadingprofile": "Profil yükleniyor...",
+  "onlineview.loading.title": "Profil yükleniyor...",
 
   "firebaseservice.status.connecting": "Polytopia sunucularına bağlanılıyor...",
   "firebaseservice.status.loading": "Oyun bilgisi yükleniyor...",
