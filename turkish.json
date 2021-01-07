@@ -1024,6 +1024,8 @@
   "playerinfopopup.bot.description": "Bu oyuncu bir Bot. Bzzzt!",
   "gameinfo.move": "Yapılan hamle sayısı",
   "playerinfopopup.you.description": "Sen",
+  "gameservice.android": "Google Play Games",
+  "backend.login.failed": "Giriş yapılamadı",
 
   "friendlist.friendshipstate": "Arkadaşlık durumu: {0}",
   "friendlist.friendshipstate.none": "Bu oyuncuyla arkadaş değilsin. Belki olmak istersin?",
