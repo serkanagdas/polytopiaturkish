@@ -838,6 +838,7 @@
   "onlineview.loadingprofile.title": "Profil yükleniyor...",
   "onlineview.loadingprofile": "Profil yükleniyor...",
   "onlineview.loading.title": "Profil yükleniyor...",
+  "onlineview.waiting.server": "Sunucu bekleniyor...",
 
   "firebaseservice.status.connecting": "Polytopia sunucularına bağlanılıyor...",
   "firebaseservice.status.loading": "Oyun bilgisi yükleniyor...",
