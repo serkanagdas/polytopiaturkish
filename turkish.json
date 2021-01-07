@@ -599,7 +599,7 @@
   "technology.names.polarwarfare": "Polar Harp",
   "technology.names.polarism": "Polarism",
 
-  "techview.info": "İmpratorluğunuzdaki her bir şehir, teknoloji geliştirmek için gereken harcamanızı arttırır.",
+  "techview.info": "İmpratorluğunuzdaki her bir şehir, teknoloji geliştirmek için gereken yıldız miktarını arttırır.",
   "techview.info.literacy": "Okuryazarlık, tüm teknolojilerin fiyatını% 20 düşürür!",
   "techview.locked": "(kilitli)",
   "techview.locked.info": "{0} Öğrenmeden önce {1} araştırmalısın.",
