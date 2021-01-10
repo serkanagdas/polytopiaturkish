@@ -848,6 +848,8 @@
   "firebaseservice.error": "Oyunu kaydedilemedi. Lütfen tekrar dene.",
   "firebaseservice.invite": "Yeni bir oyuna davet edildin, {0}",
   "firebaseservice.removed": "{0} oyunundan atıldın ",
+  "notifications.defaultheader": "Arkadaşlık İsteği Gönderildi",
+  "friendlist.requestsent.notification": "Arkadaşlık isteği gönderildi...",
 
   "friendlist.title": "ARKADAŞ LİSTESİ",
   "friendlist.new.caps": "ARKADAŞ EKLE",
